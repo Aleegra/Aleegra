@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/Lynnxi"><img src="https://api.daily.dev/devcards/c8ed600a30074ef98c002543f4e11f1a.png?r=1d3" width="400" alt="Lynn's Dev Card"/></a>
+<a href="https://app.daily.dev/lynnxi"><img src="https://api.daily.dev/devcards/v2/3pNRAbsb1xfvwouU7TdIb.png?type=wide&r=hi6" width="652" alt="Lynn's Dev Card"/></a>
 <!--
 **Aleegra/Aleegra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
